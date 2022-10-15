@@ -22,7 +22,7 @@
 ### 👀 &nbsp;Currently curious regarding
 
 💻 &nbsp; Machine learning and AI\
-⚙️ &nbsp; Entrepreneurship and Business
+💰 &nbsp; Entrepreneurship and Business
 
 ### ✨ &nbsp;I am also interested in
 🚴🏼‍♂️ &nbsp; Endurence rides in Cycle\
