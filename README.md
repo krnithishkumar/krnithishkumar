@@ -33,3 +33,5 @@
 ### 📫 &nbsp;Want to send out a mail?
 
 You can shoot me an email at nithishkumarkr@gmail.com, I'll try to respond as soon as I can.
+
+![](https://komarev.com/ghpvc/?username=krnithishkumar&style=for-the-badge)
