@@ -1,10 +1,10 @@
 ## Hi there, I'm Nithishkumar K R 👋
 
-### 👩‍💻 &nbsp;About Me
+### 👨‍💻 &nbsp;About Me
 
-💻 &nbsp;A passionate software engineer who is willing to solve the real world problems where more users can get benefited.\
-💼 &nbsp;Currently working as Cloud Developer in [Aruba-HPE](https://www.arubanetworks.com/) | former Research Engineer in [BUDDI.AI](https://buddi.ai) \
-💡 &nbsp; I have 3+ years experience in developing enterprise web applications and carried out research work on ASR technologies.
+💻 &nbsp; A passionate software engineer who is willing to solve real-world problems where more users can benefit.\
+💼 &nbsp; Currently working as Cloud Developer in [Aruba-HPE](https://www.arubanetworks.com/) | former Research Engineer in [BUDDI.AI](https://buddi.ai) \
+💡 &nbsp; I have 3+ years of experience developing enterprise web applications and carried out research on ASR technologies.
 
 ### 🤝 &nbsp;Connect with me:
 
@@ -25,14 +25,14 @@
 💰 &nbsp; Entrepreneurship and Business
 
 ### ✨ &nbsp;I am also interested in
-🚴🏼‍♂️ &nbsp; Endurence rides in Cycle\
+🚴🏼‍♂️ &nbsp; Endurance rides in Cycle\
 🎼 &nbsp; Music\
 🏸 &nbsp; Badminton\
 ♟️  &nbsp; Chess
 
 ### 📫 &nbsp;Want to send out a mail?
 
-You can shoot me an email at nithishkumarkr@gmail.com, I'll try to respond as soon as I can.
+You can email me at nithishkumarkr@gmail.com, I'll try to respond as soon as possible.
 
 ![](https://komarev.com/ghpvc/?username=krnithishkumar&style=for-the-badge)
 
