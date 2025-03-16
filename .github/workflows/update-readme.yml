@@ -23,24 +23,33 @@ jobs:
         node -e "
           const fs = require('fs');
           const path = './README.md';
-          
+
           // Your start date (June 2020)
           const startYear = 2020;
           const startMonth = 6; // June (1-based)
-          
+
           const today = new Date();
           const diffYears = today.getFullYear() - startYear;
-          const diffMonths = today.getMonth() + 1 - startMonth; 
+          const diffMonths = today.getMonth() + 1 - startMonth;
+
+          // Calculate experience (adjusting months to fraction of a year)
+          let experience = diffYears + diffMonths / 12;
           
-          // Calculate experience
-          const experience = (diffYears + diffMonths / 12).toFixed(1);
-          
+          // Round to 1 decimal place
+          experience = experience.toFixed(1);
+
+          // Ensure the experience is a valid number
+          if (isNaN(experience)) {
+            console.log('Error: Could not calculate experience.');
+            process.exit(1);  // Exit with error
+          }
+
           // Read the README file
           let readmeContent = fs.readFileSync(path, 'utf8');
-          
+
           // Replace the old experience value with the new one
           readmeContent = readmeContent.replace(/(\d+(\.\d+)?)(\s*years)/, `**${experience} years**`);
-          
+
           // Write the updated content back to the README file
           fs.writeFileSync(path, readmeContent);
         "
