@@ -20,9 +20,9 @@ jobs:
 
       - name: Calculate experience and update README
         run: |
-          node -e "
-            const fs = require('fs');
-            const path = './README.md';
+          node -e '
+            const fs = require("fs");
+            const path = "./README.md";
 
             // Your start date (June 2020)
             const startYear = 2020;
@@ -40,21 +40,22 @@ jobs:
 
             // Ensure the experience is a valid number
             if (isNaN(experience)) {
-              console.log('Error: Could not calculate experience.');
+              console.log("Error: Could not calculate experience.");
               process.exit(1);  // Exit with error
             }
 
             console.log(`Calculated experience: ${experience} years`);
 
             // Read the README file
-            let readmeContent = fs.readFileSync(path, 'utf8');
+            let readmeContent = fs.readFileSync(path, "utf8");
 
-            // Replace the old experience value with the new one
-            readmeContent = readmeContent.replace(/(\d+(\.\d+)?)(\s*years)/, `**${experience} years**`);
+            const re = /(\d+(\.\d+)?)(\s*years)/;
+            readmeContent = readmeContent.replace(re, `${experience} years`);
+            console.log(readmeContent.match(re));
 
             // Write the updated content back to the README file
             fs.writeFileSync(path, readmeContent);
-          "
+          '
 
       - name: Commit and push changes
         uses: EndBug/add-and-commit@v7
