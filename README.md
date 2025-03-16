@@ -4,7 +4,7 @@
 
 💻 &nbsp; A passionate software engineer who is willing to solve real-world problems where more users can benefit.\
 💼 &nbsp; Currently working as Cloud Developer in [Aruba-HPE](https://www.arubanetworks.com/) | former Research Engineer in [BUDDI.AI](https://buddi.ai) \
-💡 &nbsp; I have 4.5 years of experience developing enterprise web applications and various research works.
+💡 &nbsp; I have undefined of experience developing enterprise web applications and various research works.
 
 ### 🤝 &nbsp;Connect with me:
 
