@@ -1,0 +1,51 @@
+name: Update README with Experience
+
+on:
+  schedule:
+    - cron: '0 0 1 * *'  # This runs on the 1st day of every month at midnight
+  workflow_dispatch:  # Allows manual triggering
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout the repository
+      uses: actions/checkout@v3
+
+    - name: Set up Node.js
+      uses: actions/setup-node@v3
+      with:
+        node-version: '16'  # Use the latest LTS version
+
+    - name: Calculate experience and update README
+      run: |
+        const fs = require('fs');
+        const path = './README.md';
+        
+        // Your start date (June 2020)
+        const startYear = 2020;
+        const startMonth = 6; // June (1-based)
+
+        const today = new Date();
+        const diffYears = today.getFullYear() - startYear;
+        const diffMonths = today.getMonth() + 1 - startMonth; 
+
+        // Calculate experience
+        const experience = (diffYears + diffMonths / 12).toFixed(1);
+
+        // Read the README file
+        let readmeContent = fs.readFileSync(path, 'utf8');
+
+        // Replace the old experience value with the new one
+        readmeContent = readmeContent.replace(/(\d+(\.\d+)?)(\s*years)/, `**${experience} years**`);
+
+        // Write the updated content back to the README file
+        fs.writeFileSync(path, readmeContent);
+
+    - name: Commit and push changes
+      uses: EndBug/add-and-commit@v7
+      with:
+        author_name: "GitHub Actions"
+        author_email: "actions@github.com"
+        message: "Update experience in README"
