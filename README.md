@@ -2,8 +2,8 @@
 
 ### 👨‍💻 &nbsp;About Me
 
-💻 &nbsp; A passionate software engineer who is willing to solve real-world problems where more users can benefit.\
-💼 &nbsp; Currently working as Cloud Developer in [Aruba-HPE](https://www.arubanetworks.com/) | former Research Engineer in [BUDDI.AI](https://buddi.ai) \
+💻 &nbsp; A passionate software engineer focused on developing robust and scalable applications. I am motivated to create positive impact through software that benefits a wide range of users.\
+💼 &nbsp; Currently working as Cloud Developer in [Hewlett Packard Enterprise](https://www.arubanetworks.com/) | former Research Engineer in [BUDDI.AI](https://buddi.ai) \
 💡 &nbsp; I have 4.8 years of experience developing enterprise web applications and various research works.
 
 ### 🤝 &nbsp;Connect with me:
@@ -26,14 +26,14 @@
 
 ### ✨ &nbsp;I am also interested in
 
-🚴🏼‍♂️ &nbsp; Endurance rides in Cycle\
+♟️ &nbsp; Chess\
 🎼 &nbsp; Music\
 🏸 &nbsp; Badminton\
-♟️ &nbsp; Chess
+🚴🏼‍♂️ &nbsp; Endurance rides in Cycle
 
 ### 📫 &nbsp;Want to send out a mail?
 
-You can email me at nithishkumarkr@gmail.com, I'll try to respond as soon as possible.
+You can email me [here](mailto:nithishkumarkr@gmail.com), I'll try to respond as soon as possible.
 
 ![](https://komarev.com/ghpvc/?username=krnithishkumar&style=for-the-badge)
 
