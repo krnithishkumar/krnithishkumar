@@ -33,7 +33,7 @@
 
 ### 📫 &nbsp;Want to send out a mail?
 
-You can email me [here](mailto:nithishkumarkr@gmail.com), I'll try to respond as soon as possible.
+You can email me at [nithishkumarkr@gmail.com](mailto:nithishkumarkr@gmail.com), I'll try to respond as soon as possible.
 
 ![](https://komarev.com/ghpvc/?username=krnithishkumar&style=for-the-badge)
 
