@@ -8,16 +8,13 @@
 
 ### 🤝 &nbsp;Connect with me:
 
-<a href="https://www.linkedin.com/in/nithishkumarkr/"><img align="left" src="images/linkedin.png" alt="Nithishkumar K R | LinkedIn" width="21px"/></a> &emsp;
-<a href="https://stackoverflow.com/users/9113635/nithishkumar-k-r"><img align="left" src="images/stackoverflow.png" alt="Nithishkumar K R | Stackoverflow" width="21px"/></a> &emsp;
-<a href="https://www.instagram.com/nithishkumarkr/"><img align="left" src="images/instagram.png" alt="Nithishkumar K R | Instagram" width="21px"/></a>
+<a href="https://www.linkedin.com/in/nithishkumarkr/"><img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="Nithishkumar K R | LinkedIn" width="21px"/></a> &emsp;
 
 ### 🌱 &nbsp;I am passionate about
 
 👨‍💻 &nbsp; Programming\
 🌏 &nbsp; Web Development\
 🛡️ &nbsp; Information Security\
-📝 &nbsp; Mentoring
 
 ### 👀 &nbsp;Currently curious regarding
 
