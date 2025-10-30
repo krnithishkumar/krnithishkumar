@@ -14,7 +14,7 @@
 
 👨‍💻 &nbsp; Programming\
 🌏 &nbsp; Web Development\
-🛡️ &nbsp; Information Security\
+🛡️ &nbsp; Information Security
 
 ### 👀 &nbsp;Currently curious regarding
 
