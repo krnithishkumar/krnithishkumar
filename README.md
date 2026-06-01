@@ -4,7 +4,7 @@
 
 💻 &nbsp; A passionate software engineer focused on developing robust and scalable applications. I am motivated to create positive impact through software that benefits a wide range of users.\
 💼 &nbsp; Currently working as Cloud Developer in [Hewlett Packard Enterprise](https://www.arubanetworks.com/) | former Research Engineer in [BUDDI.AI](https://buddi.ai) \
-💡 &nbsp; I have 5.9 years of experience developing enterprise web applications and various research works.
+💡 &nbsp; I have 6.0 years of experience developing enterprise web applications and various research works.
 
 ### 🤝 &nbsp;Connect with me:
 
